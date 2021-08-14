@@ -1,0 +1,51 @@
+debuggroup summary 0.15s welcome to circos v0.69-6 31 July 2017 on Perl 5.016000
+debuggroup summary 0.16s current working directory /Users/Capizzi/Downloads/circos-0.69-6/afis
+debuggroup summary 0.16s command ../bin/circos -conf etc/circos.conf -debug_group summary,timer
+debuggroup summary 0.16s loading configuration from file etc/circos.conf
+debuggroup summary 0.16s found conf file etc/circos.conf
+debuggroup summary 0.33s debug will appear for these features: summary,timer
+debuggroup summary 0.33s bitmap output image ./circos.png
+debuggroup summary 0.33s SVG output image ./circos.svg
+debuggroup summary 0.34s parsing karyotype and organizing ideograms
+debuggroup summary 0.34s karyotype has 8 chromosomes of total size 300,911
+debuggroup summary 0.34s applying global and local scaling
+debuggroup summary 0.34s allocating image, colors and brushes
+debuggroup summary 3.01s drawing 8 ideograms of total size 300,911
+debuggroup summary 3.01s drawing highlights and ideograms
+debuggroup summary 3.18s found conf file /Users/Capizzi/Downloads/circos-0.69-6/bin/../etc/tracks/tile.conf
+debuggroup summary 3.18s found conf file /Users/Capizzi/Downloads/circos-0.69-6/bin/../etc/tracks/tile.conf
+debuggroup summary 3.18s processing track_0 tile /Users/Capizzi/Downloads/circos-0.69-6/afis/data/afrctile.txt
+debuggroup summary 3.62s processing track_1 tile /Users/Capizzi/Downloads/circos-0.69-6/afis/data/angtile.txt
+debuggroup summary 3.98s drawing track_0 tile z 0 afrctile.txt orient out
+debuggroup summary 4.04s found conf file /Users/Capizzi/Downloads/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup summary 7.43s drawing track_1 tile z 0 angtile.txt orient center
+debuggroup summary 7.46s found conf file /Users/Capizzi/Downloads/circos-0.69-6/bin/../etc/tracks/axis.conf
+debuggroup timer 9.95s report circos 9.791 s
+debuggroup timer 9.95s report color 2.506 s
+debuggroup timer 9.95s report colorcache 0.010 s
+debuggroup timer 9.95s report colordefinitions 0.863 s
+debuggroup timer 9.95s report colorfetch 0.038 s
+debuggroup timer 9.95s report colorlists 0.024 s
+debuggroup timer 9.95s report colorlookups 0.005 s
+debuggroup timer 9.95s report colortransparency 1.461 s
+debuggroup timer 9.95s report dataparams 0.447 s
+debuggroup timer 9.95s report datarules 0.000 s
+debuggroup timer 9.95s report graphic_png_polygon 0.463 s
+debuggroup timer 9.95s report graphic_slice 1.365 s
+debuggroup timer 9.95s report graphic_slice_polygon_coord 0.156 s
+debuggroup timer 9.95s report graphic_slice_polygon_svg 0.446 s
+debuggroup timer 9.95s report graphic_slice_preprocess 0.241 s
+debuggroup timer 9.95s report highlights 0.000 s
+debuggroup timer 9.95s report ideograms_draw 0.167 s
+debuggroup timer 9.95s report ideograms_processing 0.002 s
+debuggroup timer 9.95s report ideograms_ticks_draw 0.110 s
+debuggroup timer 9.95s report ideograms_zoom 0.002 s
+debuggroup timer 9.95s report io 0.176 s
+debuggroup timer 9.95s report karyotype 0.003 s
+debuggroup timer 9.95s report parameter_seek 0.538 s
+debuggroup timer 9.95s report track_preprocess 0.094 s
+debuggroup timer 9.95s report track_tile 4.760 s
+debuggroup timer 9.95s report unitconvert 0.002 s
+debuggroup timer 9.95s report unitconvert_decision 0.000 s
+debuggroup timer 9.95s report unitconvert_delegate 0.001 s
+debuggroup timer 9.95s report unitparse 0.006 s

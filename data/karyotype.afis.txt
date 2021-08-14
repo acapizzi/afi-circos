@@ -1,0 +1,8 @@
+chr	-	0	Air Force	0	87892	Black
+chr	-	1	Air National Guard	0	4488	Black
+chr	-	2	Bases	0	78250	Black
+chr	-	3	DRUs	0	5738	Black
+chr	-	4	FOAs	0	5343	Black
+chr	-	5	Major Commands	0	70063	Black
+chr	-	6	Numbered Air Forces	0	1012	Black
+chr	-	7	Units	0	48117	Black
